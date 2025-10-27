@@ -1,1 +1,1 @@
-This repository is the exercize 2 from the Initiation to Java module.
+This repository is the exercise 2 from the Initiation to Java module.
